@@ -36,7 +36,7 @@ void input() {
 
 	for (int i = 0; i < n; i++) {
 
-		cout << "<" << (i + 1) << ">";
+		cout << "Data ke-" << (i + 1) << ": ";
 		cin >> Fauzi[i];
 	}
 }
